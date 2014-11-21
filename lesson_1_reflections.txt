@@ -1,0 +1,1 @@
+Diff shows the only the lines that has changed between the versions of the file and is better than a line by line manual compare.However it is not easy to understand its output in the first go and leads a little bit of practice.
