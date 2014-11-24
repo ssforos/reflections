@@ -1,0 +1,1 @@
+github allows colloborative work by hosting a repository in the cloud.
