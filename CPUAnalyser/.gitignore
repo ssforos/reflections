@@ -1,0 +1,8 @@
+# Ignore the compiled binary
+cpu_analyser
+
+# Ignore object files
+*.o
+
+# Ignore log files
+*.log
